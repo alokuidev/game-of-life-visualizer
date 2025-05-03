@@ -7,9 +7,11 @@
     <link rel="icon" type="image/x-icon" href="favicon.ico">
 </head>
 <body>
-
+<header>
+    <h1>Game of Life – PHP Visualization</h1>
+</header>
 <div class="container">
-
+    
     <!-- FIRST GRID: Original Grid -->
     <div>
         <h3>Original Grid</h3>

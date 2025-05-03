@@ -3,7 +3,18 @@ body {
     background-color: #f9f9f9;
     padding: 20px;
 }
-
+header {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+header h1 {
+    margin: 0;
+    font-size: 24px;
+    letter-spacing: 1px;
+}
 .container {
     display: flex;
     justify-content: center;

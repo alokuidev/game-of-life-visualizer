@@ -91,7 +91,7 @@
 
 </div>
 <footer>
-        Created by Your Name | Game of Life PHP Assignment
+        Created by Alok | Game of Life PHP Assignment
 </footer>
 </body>
 </html>
